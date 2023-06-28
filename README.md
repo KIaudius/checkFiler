@@ -7,7 +7,7 @@ Well, the easy way would be to use this _python script_. Its as easy as running 
 
 <br /> <br />
 ## What are magic numbers?
-Magic numbers are the first few bytes of a file which are unique to a particular file type. These unique bits are referred to as magic numbers,  also sometimes referred to as a  file signature.
+Magic numbers are the first few bytes of a file that are unique to a particular file type. These unique bits are referred to as magic numbers,  also sometimes referred to as a  file signature.
 <br /> <br /> <br />
 ## How to use this script?
 
